@@ -1,0 +1,2 @@
+Django==5.x.x
+Faker==xx.x

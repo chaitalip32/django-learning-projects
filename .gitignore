@@ -1,0 +1,35 @@
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Django Database
+db.sqlite3
+db.sqlite3-journal
+
+# Media Files
+media/
+
+# Environment Variables and Secrets
+.env
+.env.*
+
+# IDE and Editor
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Test and Coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
